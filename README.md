@@ -15,5 +15,10 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
   b. Make no attempt to deanonymize or learn the identity of any user in the dataset
 
   c. Make no attempt to link users in the dataset with any external information (e.g., an account on another website)
-  
+
   d. Will not share any portion of the data, including example posts or excerpts from posts, with any other party
+
+
+* __System/SW Overview__
+  * <img width="300" src="https://github.com/nlpcl-lab/CADD_dataset/img/task2_detail.png">
+
