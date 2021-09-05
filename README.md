@@ -20,4 +20,4 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 
 
 * __System/SW Overview__
-  * ![A set of questions in the hierarchical annotation scheme for Step 2](https://github.com/nlpcl-lab/CADD_dataset/img/task2_detail.png)
+  * ![task2_detail](https://user-images.githubusercontent.com/40844310/132124971-68b48ac4-a69d-41a6-accf-c9a8ed7bba46.png)
