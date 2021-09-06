@@ -18,14 +18,14 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 ## CADD
 * __Dataset overview__
 
->|                                 | Values            |
->|---------------------------------|-------------------|
->| L1: Type                        | {0,1,2,3}         |
->| L2: Abusiveness                 | {0,1}             |
->| L3: Target                      | {0,1}             |
->| L4: Demographic Characteristics | {0,1,2,3,4,5,6,7} |
->| L5: Implicitness                | {0,1}             |
->| L6: Profanity                   | {0,1}             |
+>|                                 | Values              |                                                                                                            |
+>|---------------------------------|---------------------|------------------------------------------------------------------------------------------------------------|
+>| L1: Type                        | {0,1,2,3}           | 0: Non-abusive, 1: Hate speech, 2: Derogatory, 3: Profanity                                                |
+>| L2: Abusiveness                 | {0,1}               | 0: Non-abusive, 1: Abusive                                                                                 |
+>| L3: Target                      | {0,1}               | 0: Non-targeted, 1: Targeted                                                                               |
+>| L4: Demographic Characteristics | {0,1,2,3,4,5,6,7,8} | 0: None, 1:Gender, 2: Sexual orientation, 3: Race, 4: Religion 5: Disability, 6: Age, 7: Others, 8:Unclear |
+>| L5: Implicitness                | {0,1}               | 0: None, 1: Implicit (Containing implicit attacks.)                                                        |
+>| L6: Profanity                   | {0,1}               | 0: None, 1: Profanity (Containing any words expressing abusiveness.)                                       |
 
 
 * __Annotation scheme__
