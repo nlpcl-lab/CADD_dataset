@@ -20,6 +20,9 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 
 >|                                 | Values              | Description                                                                                                |
 >|---------------------------------|---------------------|------------------------------------------------------------------------------------------------------------|
+>| Title                           | str: Context        | Contextual information (Title + Body)                                                                      |
+>| Body                            | str: Context        | Contextual information (Title + Body)                                                                      |
+>| Comment                         | str: Target sentence| A target sentence to be classified.                                                                        |
 >| L1: Type                        | {0,1,2,3}           | 0: Non-abusive, 1: Hate speech, 2: Derogatory, 3: Profanity                                                |
 >| L2: Abusiveness                 | {0,1}               | 0: Non-abusive, 1: Abusive                                                                                 |
 >| L3: Target                      | {0,1}               | 0: Non-targeted, 1: Targeted                                                                               |
