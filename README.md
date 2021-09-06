@@ -36,7 +36,6 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 >|  Derogatory |  1,632 |        241 |   494 |  2,367 |
 >|  Profanity  |  4,595 |        631 | 1,339 |  6,565 |
 >| Non-abusive |  8,412 |      1,190 | 2,297 | 11,899 |
->|:-----------:|:------:|:----------:|:-----:|:------:|
 >|     All     | 17,154 |      2,450 | 4,902 | 24,506 |
 
 
