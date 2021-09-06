@@ -18,7 +18,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 ## CADD
 * __Dataset overview__
 
->|                                 | Values              |                                                                                                            |
+>|                                 | Values              | Description                                                                                                |
 >|---------------------------------|---------------------|------------------------------------------------------------------------------------------------------------|
 >| L1: Type                        | {0,1,2,3}           | 0: Non-abusive, 1: Hate speech, 2: Derogatory, 3: Profanity                                                |
 >| L2: Abusiveness                 | {0,1}               | 0: Non-abusive, 1: Abusive                                                                                 |
