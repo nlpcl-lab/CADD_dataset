@@ -17,6 +17,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 
 ## CADD
 * __Dataset overview__
+
 |                                 | Values            |
 |---------------------------------|-------------------|
 | L1: Type                        | {0,1,2,3}         |
