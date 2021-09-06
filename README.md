@@ -28,9 +28,26 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 >| L6: Profanity                   | {0,1}               | 0: None, 1: Profanity (Containing any words expressing abusiveness.)                                       |
 
 
+* __Data statistics__
+
+>|     Type    |  Train | Validation |  Test |  Total |
+>|:-----------:|:------:|:----------:|:-----:|:------:|
+>| Hate speech |  2,515 |        388 |   772 |  3,675 |
+>|  Derogatory |  1,632 |        241 |   494 |  2,367 |
+>|  Profanity  |  4,595 |        631 | 1,339 |  6,565 |
+>| Non-abusive |  8,412 |      1,190 | 2,297 | 11,899 |
+>|:-----------:|:------:|:----------:|:-----:|:------:|
+>|     All     | 17,154 |      2,450 | 4,902 | 24,506 |
+
+
+
 * __Annotation scheme__
 
   ![task2_detail](https://user-images.githubusercontent.com/40844310/132124971-68b48ac4-a69d-41a6-accf-c9a8ed7bba46.png)
+
+
+
+
 
 
 
