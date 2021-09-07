@@ -6,7 +6,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 * __Note__
   * 2021/09/05 New version update
   * The data is in the CSV format.
-  * Please be sure that you are informed and agreed to the ethical guidelines.
+  * Please BE SURE that you are informed of, and agreed to the ethical guidelines.
   * Please DO NOT modify this file directly.
 
 ## Ethical Guidelines
