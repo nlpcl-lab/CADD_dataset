@@ -51,6 +51,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 
 ## License
 These resources can be used for research purposes. Please cite the corresponding publication if you use it.
+https://aclanthology.org/2021.conll-1.43.pdf
 
 
 
