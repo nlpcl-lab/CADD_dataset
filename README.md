@@ -52,6 +52,8 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 ## Reference
 
 ```
+https://aclanthology.org/2021.conll-1.43.pdf
+
 @inproceedings{song2021large,
   title={A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit},
   author={Song, Hoyun and Ryu, Soo Hyun and Lee, Huije and Park, Jong C},
@@ -61,10 +63,12 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 }
 ```
 
-
 ## License
-These resources can be used for research purposes. Please cite the corresponding publication if you use it.
-https://aclanthology.org/2021.conll-1.43.pdf
+
+These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+
 
 
 
