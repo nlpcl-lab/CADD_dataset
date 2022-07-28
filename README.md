@@ -53,7 +53,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 <a rel="reference" href="https://aclanthology.org/2021.conll-1.43.pdf">https://aclanthology.org/2021.conll-1.43.pdf</a>
 ```
 @inproceedings{song2021large,
-  title={A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit},
+  title={{A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit}},
   author={Song, Hoyun and Ryu, Soo Hyun and Lee, Huije and Park, Jong C},
   booktitle={Proceedings of the 25th Conference on Computational Natural Language Learning},
   pages={552--561},
