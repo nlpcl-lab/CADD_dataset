@@ -52,7 +52,7 @@ CADD: A Large-scale Comprehensive Abusiveness Detection Dataset with Multifacete
 ## Reference
 
 ```
-https://aclanthology.org/2021.conll-1.43.pdf
+<a rel="reference" href="https://aclanthology.org/2021.conll-1.43.pdf">https://aclanthology.org/2021.conll-1.43.pdf</a>
 
 @inproceedings{song2021large,
   title={A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit},
